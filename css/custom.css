@@ -43,7 +43,7 @@ h3.subText {
 }
 
 a.FakeJob {
-    color: floralwhite !important;
+    color: #9200E2 !important;
     
     <!--https://stackoverflow.com/questions/16782498/looping-animation-of-text-color-change-using-css3 -->
     -webkit-animation: color-change 2s infinite;
@@ -54,29 +54,29 @@ a.FakeJob {
 }
 
 @-webkit-keyframes color-change {
-    0% { color: floralwhite; }
+    0% { color: #9200E2; }
     50% { color: #ff9999; }
-    100% { color: floralwhite; }
+    100% { color: #9200E2; }
 }
 @-moz-keyframes color-change {
-    0% { color: floralwhite; }
+    0% { color: #9200E2; }
     50% { color: #ff9999; }
-    100% { color: floralwhite; }
+    100% { color: #9200E2; }
 }
 @-ms-keyframes color-change {
-    0% { color: floralwhite; }
+    0% { color: #9200E2; }
     50% { color: #ff9999; }
-    100% { color: floralwhite; }
+    100% { color: #9200E2; }
 }
 @-o-keyframes color-change {
-    0% { color: floralwhite; }
+    0% { color: #9200E2; }
     50% { color: #ff9999; }
-    100% { color: floralwhite; }
+    100% { color: #9200E2; }
 }
 @keyframes color-change {
-    0% { color: floralwhite; }
+    0% { color: #9200E2; }
     50% { color: #ff9999; }
-    100% { color: floralwhite; }
+    100% { color: #9200E2; }
 }
 
 
